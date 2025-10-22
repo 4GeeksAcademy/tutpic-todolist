@@ -1,0 +1,24 @@
+#todo{
+    width: 25vw;
+}
+#lista{
+    width: 25vw;
+    height: auto;
+
+}
+li{
+    width: 100%;
+}
+form{
+    width:100%
+}
+input{
+    width:100%
+}
+.boton{
+    opacity: 0;
+    transition: 300ms;
+}
+.ele:hover .boton ,.boton:hover{
+    opacity: 1;
+}
